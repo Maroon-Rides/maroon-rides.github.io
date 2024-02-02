@@ -101,6 +101,11 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 collections:
   pages:
