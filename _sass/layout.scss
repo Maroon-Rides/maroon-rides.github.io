@@ -113,6 +113,14 @@ header {
 	margin-left: 15px;
 }
 
+.headerName {
+	color: $header-title-color;
+	white-space: nowrap;
+	display: flex;
+	font-weight: bold;
+	margin-left: 15px;
+}
+
 @media only screen and (max-width: 768px) {
 
 	.logo {
@@ -225,6 +233,10 @@ nav > ul li a:active {
 
 // Sub Page Header Styling
 .subPageHeaderBackground .logo > p {
+	color: #000;
+}
+
+.subPageHeaderBackground .logo > a {
 	color: #000;
 }
 
