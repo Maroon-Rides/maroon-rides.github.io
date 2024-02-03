@@ -7,8 +7,8 @@ include_in_header: true
 
 # Changelog
 
-#### `Latest`
-## **Version 1.1.2**
+### `Latest` 
+## **Version 1.1.2** 
 
 We have fixed some visual gitches that appeared when our datasource changed.
 
