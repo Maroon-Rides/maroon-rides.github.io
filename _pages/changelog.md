@@ -8,6 +8,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest` 
+## **Version 1.2.1** 
+- You can now see timetables for days in the future
+- Added "Campus Circulator" underneath routes with only one direction
+- You can now tap on an alert to see more details about affected stops and detours
+- remove the "to:" in bus callout for single-direction routes
+- fixed visual glitches on stop callouts
+- timetable error handling improved
+
 ## **Version 1.1.2** 
 
 We have fixed some visual gitches that appeared when our datasource changed.
