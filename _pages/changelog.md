@@ -8,6 +8,9 @@ include_in_header: true
 # Changelog
 
 ### `Latest` 
+## **Version 1.2.2** 
+- We have fixed the issues reguarding access to bus data in the app. Please update immediately to v1.2.2 in the App Store to regain functionality.
+
 ## **Version 1.2.1** 
 - You can now see timetables for days in the future
 - Added "Campus Circulator" underneath routes with only one direction
