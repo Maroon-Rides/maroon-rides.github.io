@@ -1,5 +1,5 @@
 #page title
-page_title                                : Reveille Rides                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Maroon Rides                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6475358068                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/icon.webp                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Reveille Rides                            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Maroon Rides                            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : The new bus transportation app for Aggies
 
@@ -20,14 +20,14 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Reveille Rides                               
+your_name                                 : Maroon Rides                               
 your_link                                 : https://www.linkedin.com/company/reveille-rides                
 your_city                                 : College Station, TX                                
 email_address                             : contact@reveillerides.app
 facebook_username                         :                                           
 instagram_username                        : reveillerides
 twitter_username                          : 
-github_username                           : reveille-rides
+github_username                           : maroon-rides
 youtube_username                          :
 mastodon_link                             : 
 linkedin_link                             : https://www.linkedin.com/company/reveille-rides

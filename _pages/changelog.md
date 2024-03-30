@@ -8,6 +8,18 @@ include_in_header: true
 # Changelog
 
 ### `Latest` 
+## **Version 1.3.1** 
+- We have improved the speed of data loading in the app. You should see items in the app load quicker and update more often.
+- You can now tap on another direction and the selector will update
+- Favorites are now more reliable between updates
+- Map Elements are layered properly
+- Stop Callouts now show the estimates for departure times
+- Alerts now show affected routes on the map
+
+## **Version 1.3.0** 
+- We have dark mode support!
+- Many small UI bug fixes and improvements
+
 ## **Version 1.2.2** 
 - We have fixed the issues reguarding access to bus data in the app. Please update immediately to v1.2.2 in the App Store to regain functionality.
 
