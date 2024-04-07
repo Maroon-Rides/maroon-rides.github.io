@@ -1,2 +1,4 @@
 # Maroon Rides Website
-https://reveillerides.app
+https://maroonrides.app
+
+Redirect on https://reveillerides.app
