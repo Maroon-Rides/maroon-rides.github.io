@@ -57,6 +57,10 @@ features                                  :
     description                           : Mark your most frequently used routes and stops as favorites for quick access. Simplify your daily commute by having your preferred routes at your fingertips.
     fontawesome_icon_name                 : star
 
+  - title                                 : Route Planning
+    description                           : Get across campus easily with route planning. Enter your destination and utilize both turn-by-turn walking directions and bus directions
+    fontawesome_icon_name                 : map
+
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1

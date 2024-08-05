@@ -8,6 +8,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest` 
+
+## **Version 1.5.0** 
+We now have route planning!
+- Get across campus easily with route planning. Enter your destination and utilize both turn-by-turn walking directions and bus directions
+
+## **Version 1.4.0** 
+- Reveille Rides is now Maroon Rides!
+
 ## **Version 1.3.1** 
 - We have improved the speed of data loading in the app. You should see items in the app load quicker and update more often.
 - You can now tap on another direction and the selector will update
@@ -21,7 +29,7 @@ include_in_header: true
 - Many small UI bug fixes and improvements
 
 ## **Version 1.2.2** 
-- We have fixed the issues reguarding access to bus data in the app. Please update immediately to v1.2.2 in the App Store to regain functionality.
+- We have fixed the issues regarding access to bus data in the app. Please update immediately to v1.2.2 in the App Store to regain functionality.
 
 ## **Version 1.2.1** 
 - You can now see timetables for days in the future
@@ -33,12 +41,12 @@ include_in_header: true
 
 ## **Version 1.1.2** 
 
-We have fixed some visual gitches that appeared when our datasource changed.
+We have fixed some visual glitches that appeared when our data-source changed.
 
 ## **Version 1.1**
 
 We have added some exciting new features including:
-- Bus ID numbers shown on callouts
+- Bus ID numbers are shown on callouts
 - Bus stops now show on the deselected direction
 - You can now set whether All Routes or Favorites are shown when the app opens
 - Many more bug fixes and improvements
