@@ -9,6 +9,32 @@ include_in_header: true
 
 ### `Latest` 
 
+## **Version 1.6.0** 
+Maroon Rides is now on WatchOS and Android! Access the same great Maroon Rides interface on your Android device. WatchOS
+has a simplified version of Maroon Rides to access critical information about upcoming departures.
+
+## **Version 1.5.6**
+Due to data source issues, we have removed the ability to search for arbitrary locations inside of route planning. You can still use route planning based on stops.
+
+## **Version 1.5.5**
+This release fixes map suggestions not loading
+
+## **Version 1.5.4**
+When there are gameday routes, a "Gameday" group appears on the main route list image
+Stops that are in an alternate direction now show the departure time estimates on their callouts
+Stop timetables now truncate their titles correctly
+
+## **Version 1.5.3**
+This release resolves issues with reduced motion accessibility settings
+
+## **Version 1.5.2** 
+This release should fix some issues in our data-fetching code to reduce crashing in the app
+
+## **Version 1.5.1** 
+This is a bugfix release to fix a problem where stops in route planning do not work if we have not loaded the bus routes yet. This feature will still work without loading the initial data, you will just not be able to select stops as a route endpoint (you can still use the location suggestions though.
+
+Have a great semester!
+
 ## **Version 1.5.0** 
 We now have route planning!
 - Get across campus easily with route planning. Enter your destination and utilize both turn-by-turn walking directions and bus directions
