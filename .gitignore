@@ -1,4 +1,7 @@
-.bundle
-.sass-cache
-_site
-Gemfile.lock
+node_modules
+.svelte-kit
+build
+.DS_Store
+.env
+.env.*
+vite.config.*.timestamp-*
